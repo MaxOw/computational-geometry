@@ -1,4 +1,4 @@
-[![Linux Build Status][linux-build-icon]][linux-build]
+[![Linux Build Status][linux-build-icon]][linux-build] [![Hackage][hackage-version-icon]][hackage-link]
 
 # Computational Geometry
 
@@ -13,4 +13,7 @@ that in [This Blog Post][blog-post].
 [linux-build-icon]: https://img.shields.io/travis/MaxOw/computational-geometry/master.svg?label=build
 [linux-build]: https://travis-ci.org/MaxOw/computational-geometry
 [blog-post]: https://MaxOw.github.io/posts/computational-geometry-set-operations-on-polytopes.html
-[setops3d]: images/setops3d.gif
+[setops3d]: https://MaxOw.github.io/images/setops3d.gif
+
+[hackage-version-icon]: https://img.shields.io/hackage/v/computational-geometry.svg
+[hackage-link]: https://hackage.haskell.org/package/computational-geometry
