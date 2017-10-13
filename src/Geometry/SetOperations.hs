@@ -68,16 +68,12 @@ import Linear
 import Linear.Affine (Point)
 import qualified Linear.Affine as Point
 
--- import qualified Data.Vector.Generic as Vector
 import qualified Data.Vector as T
 
 import Geometry.SetOperations.Types
 import Geometry.SetOperations.Volume
--- import Geometry.SetOperations.BSP
--- import Geometry.SetOperations.Facet
 import Geometry.SetOperations.Clip
 import Geometry.SetOperations.BRep
--- import Geometry.Plane.General
 
 --------------------------------------------------------------------------------
 
