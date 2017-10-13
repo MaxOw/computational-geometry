@@ -1,6 +1,7 @@
 {-# Language MultiParamTypeClasses #-}
 {-# Language TypeSynonymInstances #-}
 {-# Language FlexibleInstances #-}
+{-# Language FlexibleContexts #-}
 --------------------------------------------------------------------------------
 -- |
 -- Module     : Geometry.SetOperations.BRep
