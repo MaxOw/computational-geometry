@@ -15,5 +15,6 @@ that in [This Blog Post][blog-post].
 [blog-post]: https://MaxOw.github.io/posts/computational-geometry-set-operations-on-polytopes.html
 [setops3d]: https://MaxOw.github.io/images/setops3d.gif
 
-[hackage-version-icon]: https://img.shields.io/hackage/v/computational-geometry.svg
+[hackage-version-icon]: https://img.shields.io/badge/hackage-latest-orange.svg
+<!-- http://img.shields.io/hackage/v/computational-geometry.svg -->
 [hackage-link]: https://hackage.haskell.org/package/computational-geometry
