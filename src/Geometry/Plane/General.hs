@@ -1,5 +1,6 @@
 {-# Language MultiParamTypeClasses #-}
 {-# Language FlexibleInstances #-}
+{-# Language FlexibleContexts #-}
 --------------------------------------------------------------------------------
 -- |
 -- Module     : Geometry.Plane.General

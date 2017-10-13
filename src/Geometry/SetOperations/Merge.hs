@@ -1,8 +1,6 @@
 {-# Language MultiParamTypeClasses       #-}
 {-# Language TypeSynonymInstances        #-}
 {-# Language FlexibleInstances           #-}
-{-# OPTIONS_GHC -Wno-unused-matches      #-}
-{-# OPTIONS_GHC -Wno-incomplete-patterns #-}
 --------------------------------------------------------------------------------
 -- |
 -- Module     : Geometry.SetOperations.Merge
